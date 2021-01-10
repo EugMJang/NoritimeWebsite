@@ -1,0 +1,16 @@
+{
+"companyName": "JangAndYang",
+"productName": "noritime",
+"productVersion": "1.0",
+"dataUrl": "noritimeGame.data.unityweb",
+"wasmCodeUrl": "noritimeGame.wasm.code.unityweb",
+"wasmFrameworkUrl": "noritimeGame.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.17f1"
+}
